@@ -2,7 +2,7 @@
 
 # Préambule
 1. Vérifier la configuration de `git` (username, mail, mergetool, etc...)
-* Cloner le dépôt (https://github.com/ujm-outils-dev-2017/demo-exo)
+* Cloner le dépôt (https://github.com/ujm-outils-dev-2018/demo-exo)
 
 # Etape 1 :
 1. Se positionner sur la branche `master` et créer une branche `develop`
