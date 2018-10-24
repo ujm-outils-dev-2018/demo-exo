@@ -6,7 +6,7 @@
 
 # Etape 1 :
 1. Se positionner sur la branche `master` et créer une branche `develop` et se placer dessus
-* Créer une branche `votre_nom` à partir de `develop`
+* Créer une branche `votre_nom` à partir de `develop` et se placer dessus
 * Modifier `file1.txt`
 * Créer un fichier `file4.txt` dans `dir1/` et supprimer `file2.txt`
 * Faites vos commits (ajout à l'index + commit)
