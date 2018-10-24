@@ -5,7 +5,7 @@
 * Cloner le dépôt (https://github.com/ujm-outils-dev-2018/demo-exo)
 
 # Etape 1 :
-1. Se positionner sur la branche `master` et créer une branche `develop`
+1. Se positionner sur la branche `master` et créer une branche `develop` et se placer dessus
 * Créer une branche `votre_nom` à partir de `develop`
 * Modifier `file1.txt`
 * Créer un fichier `file4.txt` dans `dir1/` et supprimer `file2.txt`
